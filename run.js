@@ -3,7 +3,7 @@ const getHtml = require('./pages.js').getHtml
 const getPhoto = require('./photos.js').getPhoto
 const getMax_p = require('./pages.js').getMax_p
 
-let url = 'http://www.meituri.com/a/16257/'
+const url = process.argv[2];
 
 
 let start = async function (base_url, min_p, max_p) {
