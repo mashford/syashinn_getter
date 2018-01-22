@@ -10,4 +10,4 @@
 ```bash
     node run.js http://www.meituri.com/a/11209/
 ```
-then it will download all the photos automaticlly 
+then it will download all the photos automaticlly. If you like it, give me a star. Thanks!
