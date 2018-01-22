@@ -8,6 +8,6 @@
 ```
 * then
 ```bash
-   node run.js http://www.meituri.com/a/11209/
+    node run.js http://www.meituri.com/a/11209/
 ```
 then it will download all the photos automaticlly 
