@@ -6,7 +6,7 @@
 ```bash
     npm install
 ```
-then
+* then
 ```bash
 	node run.js http://www.meituri.com/a/11209/
 ```
